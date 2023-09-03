@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
 1. Decomposed original app.js to different functional and representational components respectively.
-2. Added error messages and unit tests
-3. Used the latest use React hooks for the render cycle
+2. Added error messages and unit tests.
+3. Used the latest use React hooks for the render cycle.
 
 
 
