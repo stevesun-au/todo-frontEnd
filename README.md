@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and for styling we've used [React-Bootstrap](https://react-bootstrap.github.io/getting-started/introduction)
+1. Decomposed original app.js to different functional and representational components respectively.
+2. Added error messages and unit tests
+3. Used the latest use React hooks for the render cycle
+
+
 
 ## Available Scripts
 
